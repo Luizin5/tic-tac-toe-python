@@ -29,7 +29,7 @@
 	
 #divirta-se (ou tente se divertir)
 
-#discord: oluiz#3674
+#discord:{Paola}#3674
 
 
 class Jogo:
