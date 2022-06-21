@@ -29,8 +29,6 @@
 	
 #divirta-se (ou tente se divertir)
 
-#discord:luix#3674
-
 
 class Jogo:
 	def __init__(self):
